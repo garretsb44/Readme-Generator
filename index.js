@@ -20,6 +20,22 @@ const questions = [
         name: "license",
         message: "Which license do you prefer?", 
         choices: ["MIT","Apache2.0","GNUv3.0","BSD3.0", "none"]
+    },{
+        type: "input",
+        name: "installation",
+        message: "How do you install your app?"
+    },{
+        type: "input",
+        name: "usage",
+        message: "How do you use your app?"
+    },{
+        type: "input",
+        name: "contributing",
+        message: "WHat are the contributing guidelines?"
+    },{
+        type: "input",
+        name: "tests",
+        message: "How do you test the app?"
     }
 ];
 
