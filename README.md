@@ -1,9 +1,9 @@
-# Readme
-![licensebadge](https://img.shields.io/badge/license-MIT-brightgreen)
+# project 1
+![licensebadge](https://img.shields.io/badge/license-Apache2.0-brightgreen)
 
 
 ### Description 
-readme generator
+readme demo
 
 ### Table of Contents
 * [Installation] (#installation)
@@ -16,20 +16,21 @@ readme generator
 download repo
 
 ### Usage
-frame for readme
+in terminal
 
 ### License
-MIT
+This repo is covered under the Apache2.0 license. 
+For more information on licenses with github please see [https://choosealicense.com/](https://choosealicense.com/)
 
 ### Contributing
 none
 
 ### Tests
-terminal
+run
 
 ### Questions 
 
-You can access my github profile at ["https://github.com/garretsb44"]
+You can access my github profile at ["https://github.com/garretsbright44"]
 
 You can also contact me through my email: garret_44@ymail.com
 
