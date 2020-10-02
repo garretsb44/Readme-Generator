@@ -29,7 +29,11 @@ ${data.contributing}
 ### Tests
 ${data.tests}
 
+### Questions 
 
+You can access my github profile at ["https://github.com/${data.github}"]
+
+You can also contact me through my email: ${data.email}
 
 
 `;

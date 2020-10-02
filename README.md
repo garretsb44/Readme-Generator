@@ -1,9 +1,9 @@
-# 1
+# Readme
 ![licensebadge](https://img.shields.io/badge/license-MIT-brightgreen)
 
 
 ### Description 
-hello
+readme generator
 
 ### Table of Contents
 * [Installation] (#installation)
@@ -13,10 +13,10 @@ hello
 
 
 ### Installation
-install
+download repo
 
 ### Usage
-link
+frame for readme
 
 ### License
 MIT
@@ -25,8 +25,12 @@ MIT
 none
 
 ### Tests
-test
+terminal
 
+### Questions 
 
+You can access my github profile at ["https://github.com/garretsb44"]
+
+You can also contact me through my email: garret_44@ymail.com
 
 
