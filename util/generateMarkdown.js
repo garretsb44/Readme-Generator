@@ -21,7 +21,8 @@ ${data.installation}
 ${data.usage}
 
 ### License
-${data.license}
+This repo is covered under the ${data.license} license. 
+For more information on licenses with github please see [https://choosealicense.com/](https://choosealicense.com/)
 
 ### Contributing
 ${data.contributing}
